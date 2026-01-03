@@ -1,5 +1,5 @@
 {
-  "status":"errors",
+  "status":"error",
   "msg":"服务器暂未开启，请等待通知\nQQ群：340707471"
 }
 //成功获取的格式键值有status，ip，port
